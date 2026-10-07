@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "543485178362",
+    "project_id": "ivan-dam2-llista-compra-kotlin",
+    "storage_bucket": "ivan-dam2-llista-compra-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543485178362:android:f2700111da8fba09173443",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.ivanortegallistadecompradam2a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543485178362-fjg67ij1a3gir6nqcvfhu72f8itojuch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThH6C7_7z2fnQ202-inTjqjXnG8q050M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543485178362-fjg67ij1a3gir6nqcvfhu72f8itojuch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543485178362:android:3af124a0a8006005173443",
+        "android_client_info": {
+          "package_name": "org.ivanortegallistadecompradam2a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543485178362-fjg67ij1a3gir6nqcvfhu72f8itojuch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThH6C7_7z2fnQ202-inTjqjXnG8q050M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543485178362-fjg67ij1a3gir6nqcvfhu72f8itojuch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
