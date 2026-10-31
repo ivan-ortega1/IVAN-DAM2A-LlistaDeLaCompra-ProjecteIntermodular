@@ -53,6 +53,9 @@ dependencies {
     implementation(libs.androidx.credentials)
     implementation(libs.androidx.credentials.play.services.auth)
     implementation(libs.androidx.lifecycle.runtime.ktx)
+    //noinspection UseTomlInstead
+    implementation("com.google.firebase:firebase-database:23.0.0")
+    implementation(libs.androidx.material3.adaptive.navigation.suite)
     implementation(libs.googleid)
     implementation(libs.material)
     testImplementation(libs.junit)

@@ -10,6 +10,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffold
+import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScope
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -32,6 +33,7 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
 }
 
 @PreviewScreenSizes
@@ -63,6 +65,14 @@ fun IVANORTEGALlistaDeCompraDAM2AApp() {
             )
         }
     }
+}
+
+private fun NavigationSuiteScope.item(
+    icon: () -> Unit,
+    label: () -> Unit,
+    selected: Boolean,
+    onClick: () -> Unit
+) {
 }
 
 enum class AppDestinations(

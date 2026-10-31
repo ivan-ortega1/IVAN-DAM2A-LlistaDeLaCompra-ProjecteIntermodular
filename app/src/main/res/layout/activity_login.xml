@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Login">
+    tools:context=".ui.screens.LoginScreen">
 
     <TextView
         android:id="@+id/textView"
